@@ -31,3 +31,8 @@ to python 2.7. Earlier pythons (or python3) will not work.
 % make amlogic_xios-xbmc_defconfig
 % make
 ```
+# More Information
+
+- For information about customizing the generated image, and
+  customizing the build process (including parallel building and
+  `ccache`), see `docs/buildroot.html`
